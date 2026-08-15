@@ -7,11 +7,11 @@ services:
       - key: SESSION_ID
         value: ""
       - key: OWNER_NUMBER
-        value: "263..."
+        value: "2349157872959"
       - key: BOT_NAME
-        value: "SUBZERO-MD"
+        value: "BISHOP-MD"
       - key: COMMAND_MODE
-        value: "public"
+        value: "private"
       - key: TIMEZONE
         value: "Africa/Harare"
       - key: MONGO_URL
