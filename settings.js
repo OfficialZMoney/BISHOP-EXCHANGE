@@ -12,17 +12,17 @@ DATABASE_URL: process.env.DATABASE_URL || '',
     
 /* ================= BOT IDENTITY ================= */
 
-botName: process.env.BOT_NAME || 'SUBZERO-MD',
-botOwner: process.env.BOT_OWNER || 'Darrell M',
-ownerNumber: process.env.OWNER_NUMBER || '263719647303',
-author: process.env.AUTHOR || 'Mr Frank OFC',
-packname: process.env.PACKNAME || 'SUBZERO-MD',
+botName: process.env.BOT_NAME || 'BISHOP-MD',
+botOwner: process.env.BOT_OWNER || 'BISHOP EXCHANGE',
+ownerNumber: process.env.OWNER_NUMBER || '2349157872959',
+author: process.env.AUTHOR || 'BISHOP EXCHANGE',
+packname: process.env.PACKNAME || 'BISHOP-MD',
 description: process.env.DESCRIPTION || 'Multi-device WhatsApp bot',
 
 /* ================= SESSION ================= */
 
 sessionId: process.env.SESSION_ID || '',
-pairingNumber: process.env.PAIRING_NUMBER || '',
+pairingNumber: process.env.PAIRING_NUMBER || '2349157872959',
 CDN: 'https://media.mrfrankofc.gleeze.com'
 
 };
