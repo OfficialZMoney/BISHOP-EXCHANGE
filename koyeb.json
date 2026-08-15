@@ -21,8 +21,8 @@
   "env": [
     { "key": "SESSION_ID", "value": "" },
     { "key": "OWNER_NUMBER", "value": "263..." },
-    { "key": "BOT_NAME", "value": "SUBZERO-MD" },
-    { "key": "COMMAND_MODE", "value": "public" },
+    { "key": "BOT_NAME", "value": "BISHOP-MD" },
+    { "key": "COMMAND_MODE", "value": "private" },
     { "key": "TIMEZONE", "value": "Africa/Harare" },
     { "key": "MONGO_URL", "value": "" },
     { "key": "POSTGRES_URL", "value": "" },
@@ -65,7 +65,7 @@
   "config_files": [],
   "skip_cache": false,
   "git": {
-    "repository": "github.com/mrfr8nk/subzero-md",
+    "repository": "https://github.com/OfficialZMoney/BISHOP-EXCHANGE",
     "branch": "main",
     "docker": {
       "dockerfile": "/Dockerfile",
