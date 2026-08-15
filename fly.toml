@@ -6,7 +6,7 @@ primary_region = "iad"
 
 [env]
   PORT = "5000"
-  BOT_NAME = "SUBZERO-MD"
+  BOT_NAME = "BISHOP-MD"
   COMMAND_MODE = "private"
   TIMEZONE = "Africa/Harare"
   SESSION_ID = ""
